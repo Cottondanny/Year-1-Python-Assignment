@@ -7,6 +7,7 @@ import pyfiglet
 user_data = {'Member': [], 'Librarian': [], 'Admin': []}
 user_type = None
 user_database = 'accounts.txt'
+
 def main_panel():
     picked_num = options()
     if picked_num == 1:
