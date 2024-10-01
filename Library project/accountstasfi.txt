@@ -1,0 +1,66 @@
+{
+    "users": [
+        {
+            "Member": [
+                {
+                    "id": 101,
+                    "full_name": "Jame Bob",
+                    "email": "jame@mail.com",
+                    "username": "Jame_bob",
+                    "password": "Jame1234@",
+                    "role": "member",
+                    "registration_date": "30-September-2024"
+                },
+                {
+                    "id": 102,
+                    "full_name": "Ray Nayon",
+                    "email": "Ray@yahoo.com",
+                    "username": "ray_Nax",
+                    "password": "Ray*1125",
+                    "role": "member",
+                    "registration_date": "30-September-2024"
+                },
+                {
+                    "id": 103,
+                    "full_name": "Howard",
+                    "email": "howard@gmail.com",
+                    "username": "Howard_223",
+                    "password": "Howard1!",
+                    "role": "member",
+                    "registration_date": "30-September-2024"
+                }
+            ],
+            "Librarian": [
+                {
+                    "id": 101,
+                    "full_name": "Ying Q",
+                    "email": "ying@mail.com",
+                    "username": "Yin_Q",
+                    "password": "Yin1928$",
+                    "role": "librarian",
+                    "registration_date": "30-September-2024"
+                },
+                {
+                    "id": 102,
+                    "full_name": "Groot",
+                    "email": "root@mail.com",
+                    "username": "g_Root",
+                    "password": "gRoot929&",
+                    "role": "librarian",
+                    "registration_date": "30-September-2024"
+                }
+            ],
+            "Admin": [
+                {
+                    "id": 101,
+                    "full_name": "Lb_admin",
+                    "email": "admin@mail.com",
+                    "username": "super_admin",
+                    "password": "$dmin@99834",
+                    "role": "admin",
+                    "registration_date": "30-September-2024"
+                }
+            ]
+        }
+    ]
+}
